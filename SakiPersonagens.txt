@@ -1,0 +1,8 @@
+Saki_Personagens:
+
+HisaTakei = Estudante do 3° ano do Ensino Médio e Presidente do Conselho Estudantil
+KuyoutarouSuga (Suga-kun) = Estudante do 1° ano do Ensino Médio
+Mako Someya = Estudante do 2° ano do Ensino Médio
+Nodoka Haramura = Estudante do 1° ano do Ensino Médio
+SakiMiyanaga (Miyanaga-san) = Estudante do 1° ano do Ensino Médio
+Yuuki Kataoka = Estudante do 1° ano do Ensino Médio
